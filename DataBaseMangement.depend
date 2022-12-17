@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1668178049 source:m:\teaching and trainings\code blocks\databasemangement\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StudentDatabase.h"
+	"StudentManagement.h"
+
+1668178502 m:\teaching and trainings\code blocks\databasemangement\studentdatabase.h
+
+1668178119 m:\teaching and trainings\code blocks\databasemangement\studentmanagement.h
+
+1668178509 source:m:\teaching and trainings\code blocks\databasemangement\studentdatabase.c
+	"StudentDatabase.h"
+
+1668178557 source:m:\teaching and trainings\code blocks\databasemangement\studentmanagement.c
+	"StudentManagement.h"
+	"StudentDatabase.h"
+
+1668629664 source:c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\studentdatabase.c
+	"StudentDatabase.h"
+
+1668630372 c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\studentdatabase.h
+
+1668629664 source:c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\studentmanagement.c
+	"StudentManagement.h"
+	"StudentDatabase.h"
+
+1668630376 c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\studentmanagement.h
+
+1668684092 source:c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StudentDatabase.h"
+	"StudentManagement.h"
+	"EmployeeDatabase.h"
+	"EmployeeManagement.h"
+
+1668678372 c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\employeedatabase.h
+
+1668680850 c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\employeemanagement.h
+
+1668678263 source:c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\employeedatabase.c
+	"EmployeeDatabase.h"
+
+1668680849 source:c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\employeemanagement.c
+	"EmployeeManagement.h"
+	"EmployeeDatabase.h"
+
+1668683367 source:c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\hotelemployeedatabase.c
+	"HotelEmployeeDatabase.h"
+
+1668682998 c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\hotelemployeedatabase.h
+
+1668684192 source:c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\hotelemployeemanagement.c
+	"HotelEmployeeManagement.h"
+	"HotelEmployeeDatabase.h"
+
+1668684066 c:\my data\college courses\5_fifth hem term fall 2022\embeded systems\project\databasemangement v1.1\hotelemployeemanagement.h
+
+1668678263 source:c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\employeedatabase.c
+	"EmployeeDatabase.h"
+
+1668678372 c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\employeedatabase.h
+
+1668680849 source:c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\employeemanagement.c
+	"EmployeeManagement.h"
+	"EmployeeDatabase.h"
+
+1668680850 c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\employeemanagement.h
+
+1668683367 source:c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\hotelemployeedatabase.c
+	"HotelEmployeeDatabase.h"
+
+1668682998 c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\hotelemployeedatabase.h
+
+1668684192 source:c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\hotelemployeemanagement.c
+	"HotelEmployeeManagement.h"
+	"HotelEmployeeDatabase.h"
+
+1668684066 c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\hotelemployeemanagement.h
+
+1668629664 source:c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\studentdatabase.c
+	"StudentDatabase.h"
+
+1668630372 c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\studentdatabase.h
+
+1668629664 source:c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\studentmanagement.c
+	"StudentManagement.h"
+	"StudentDatabase.h"
+
+1668630376 c:\users\omr\documents\github\databasemangement v1.1\general_database_appendable\studentmanagement.h
+
+1670954944 source:c:\users\omr\desktop\trial\employeedatabase.c
+	"EmployeeDatabase.h"
+
+1670954944 c:\users\omr\desktop\trial\employeedatabase.h
+
+1671266592 source:c:\users\omr\desktop\trial\employeemanagement.c
+	"EmployeeManagement.h"
+	"EmployeeDatabase.h"
+	<stdio.h>
+	"conio.h"
+	<string.h>
+	<stdlib.h>
+
+1671228324 c:\users\omr\desktop\trial\employeemanagement.h
+
+1670954944 source:c:\users\omr\desktop\trial\hotelemployeedatabase.c
+	"HotelEmployeeDatabase.h"
+
+1670954944 c:\users\omr\desktop\trial\hotelemployeedatabase.h
+
+1671266616 source:c:\users\omr\desktop\trial\hotelemployeemanagement.c
+	"HotelEmployeeManagement.h"
+	"HotelEmployeeDatabase.h"
+	<stdio.h>
+	"conio.h"
+	<string.h>
+	<stdlib.h>
+
+1671262175 c:\users\omr\desktop\trial\hotelemployeemanagement.h
+
+1671261250 source:c:\users\omr\desktop\trial\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StudentDatabase.h"
+	"StudentManagement.h"
+	"EmployeeDatabase.h"
+	"EmployeeManagement.h"
+	"HotelEmployeeDatabase.h"
+	"HotelEmployeeManagement.h"
+
+1670954944 c:\users\omr\desktop\trial\studentdatabase.h
+
+1670954945 c:\users\omr\desktop\trial\studentmanagement.h
+
+1670954944 source:c:\users\omr\desktop\trial\studentdatabase.c
+	"StudentDatabase.h"
+
+1671266451 source:c:\users\omr\desktop\trial\studentmanagement.c
+	"StudentManagement.h"
+	"StudentDatabase.h"
+	<stdio.h>
+	"conio.h"
+	<string.h>
+	<stdlib.h>
+
